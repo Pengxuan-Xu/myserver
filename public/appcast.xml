@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <link>
+      http://uikit.corp.acronis.com/jenkins/uikit/sketch-plugins/.appcast.xml
+    </link>
+    <item>
+      <enclosure url="https://0.0.0.0:3000/a/" sparkle:version="0.1.2"/>
+    </item>
+    <item>
+      <enclosure url="http://uikit.corp.acronis.com/jenkins/uikit/sketch-plugins/downloads/syntax.sketchpluginv0.1.1.zip" sparkle:version="0.1.1"/>
+    </item>
+  </channel>
+</rss>
